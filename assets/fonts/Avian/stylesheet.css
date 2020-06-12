@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Avian';
+    src: url('Avian.eot');
+    src: url('Avian.eot?#iefix') format('embedded-opentype'),
+        url('Avian.woff2') format('woff2'),
+        url('Avian.woff') format('woff'),
+        url('Avian.ttf') format('truetype'),
+        url('Avian.svg#Avian') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

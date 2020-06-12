@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Anton';
+    src: url('Anton.eot');
+    src: url('Anton.eot?#iefix') format('embedded-opentype'),
+        url('Anton.woff2') format('woff2'),
+        url('Anton.woff') format('woff'),
+        url('Anton.ttf') format('truetype'),
+        url('Anton.svg#Anton') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
